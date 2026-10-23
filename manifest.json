@@ -1,0 +1,16 @@
+{
+  "name": "Back Door",
+  "short_name": "Back Door",
+  "start_url": "/back-door/",
+  "scope": "/back-door/",
+  "display": "standalone",
+  "background_color": "#F2F4F5",
+  "theme_color": "#1C1F22",
+  "icons": [
+    {
+      "src": "/back-door/apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
